@@ -10,7 +10,7 @@ Di seguito il link alla repository GitHub: [Dataset Covid OWiD](https://github.c
 Ci sono veramente tantissime analisi che si possono fare su questo dataset, noi comunque ci limiteremo a considerare solo i contagiati totali e i vaccini totali somministrati.  
 Ho voluto aggiungere anche se non richiesto una piccola visualizzazione grafica ottenuta con la libreria Seaborn.
 
-La consegna/traccia dell'esame è riportata all'inizio dello [Script_notebook]() in celle Markdown.  
+La consegna/traccia dell'esame è riportata all'inizio dello [script_notebook](https://github.com/personalprio/Covid19_Analysis_Python_Exam/blob/main/script_notebook_covid.ipynb) in celle Markdown.  
 Qui invece il piccolo resoconto finale come da richiesta
 
 Di nuovo, in futuro ho sicuramente l'intenzione di ampliare questo progetto, per ora rimane una prova d'esame svolta con successo.
